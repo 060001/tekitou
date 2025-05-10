@@ -6,9 +6,9 @@
     "status": "active"
   },
   {
+    "activated": true,
     "code": "2025-03-05.MGCXSQH9DF",
-    "hwid": "",
-    "activated": false,
+    "hwid": "7661c5b4bf0df972e4f5e7564dd1b6e12778eceac4157931e5137d471bcff073",
     "status": "active"
   }
 ]
