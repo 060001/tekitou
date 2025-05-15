@@ -14,5 +14,13 @@
     "status": "active",
     "expire_days": 3,
     "activated_at": ""
+  },
+  {
+    "code": "JWGIG-SW6QT-R40M3-LU3MS",
+    "hwid": "",
+    "activated": false,
+    "status": "active",
+    "expire_days": 3,
+    "activated_at": ""
   }
 ]
