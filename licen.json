@@ -40,11 +40,11 @@
     "status": "active"
   },
   {
+    "activated": true,
+    "activated_at": "2025-05-15T13:52:54.881861200+00:00",
     "code": "T3SQS-MOV4H-XDP3F-CYHHD",
-    "hwid": "",
-    "activated": false,
-    "status": "active",
     "expire_days": 99999,
-    "activated_at": ""
+    "hwid": "e1732af081ab7d46b70a8de14159e7bf4490a681f1bd126e01c17eecf1754c69",
+    "status": "active"
   }
 ]
