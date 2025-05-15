@@ -38,5 +38,13 @@
     "expire_days": 99999,
     "hwid": "71264c09a8229532f6a6fa0a8af846575ee3a1532c027ad344b275addc7a1246",
     "status": "active"
+  },
+  {
+    "code": "T3SQS-MOV4H-XDP3F-CYHHD",
+    "hwid": "",
+    "activated": false,
+    "status": "active",
+    "expire_days": 99999,
+    "activated_at": ""
   }
 ]
