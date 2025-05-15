@@ -30,5 +30,13 @@
     "status": "active",
     "expire_days": 3,
     "activated_at": ""
+  },
+  {
+    "code": "7541J-R9XET-YRB97-68FB1",
+    "hwid": "",
+    "activated": false,
+    "status": "active",
+    "expire_days": 99999,
+    "activated_at": ""
   }
 ]
