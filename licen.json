@@ -1,10 +1,10 @@
 [
   {
+    "activated": true,
+    "activated_at": "2025-05-15T13:21:36.277587900+00:00",
     "code": "W0VW3-59WOY-IDVZX-YTYRE",
-    "hwid": "",
-    "activated": false,
-    "status": "active",
     "expire_days": 7,
-    "activated_at": ""
+    "hwid": "e1732af081ab7d46b70a8de14159e7bf4490a681f1bd126e01c17eecf1754c69",
+    "status": "active"
   }
 ]
