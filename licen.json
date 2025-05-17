@@ -62,5 +62,13 @@
     "status": "active",
     "expire_days": 3,
     "activated_at": ""
+  },
+  {
+    "code": "TGA3A-G8O5D-CXUSS-22CTX",
+    "hwid": "",
+    "activated": false,
+    "status": "active",
+    "expire_days": 3,
+    "activated_at": ""
   }
 ]
