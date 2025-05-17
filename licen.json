@@ -62,13 +62,5 @@
     "expire_days": 3,
     "hwid": "",
     "status": "active"
-  },
-  {
-    "activated": true,
-    "activated_at": "2025-05-17T12:04:03.439910500+00:00",
-    "code": "TGA3A-G8O5D-CXUSS-22CTX",
-    "expire_days": 3,
-    "hwid": "e1732af081ab7d46b70a8de14159e7bf4490a681f1bd126e01c17eecf1754c69",
-    "status": "active"
   }
 ]
