@@ -56,11 +56,11 @@
     "status": "active"
   },
   {
-    "activated": false,
-    "activated_at": "",
+    "activated": true,
+    "activated_at": "2025-05-17T15:52:37.800474100+00:00",
     "code": "Q0PWH-2MBRZ-XU786-PI4P6",
     "expire_days": 3,
-    "hwid": "",
+    "hwid": "46d0c709dadf7faae925edd8076015183e0f70f732704b047a1beafa8bde06bc",
     "status": "active"
   }
 ]
