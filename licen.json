@@ -64,11 +64,11 @@
     "status": "active"
   },
   {
+    "activated": true,
+    "activated_at": "2025-05-24T03:38:20.737068700+00:00",
     "code": "ODJF5-QWUCA-44I3N-DWPR2",
-    "hwid": "",
-    "activated": false,
-    "status": "active",
     "expire_days": 99999,
-    "activated_at": ""
+    "hwid": "6b1335c8954436a6387f3d5639f2a21128cec7cb2868d4ee7b5cbdcf79cc5011",
+    "status": "active"
   }
 ]
