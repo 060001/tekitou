@@ -70,5 +70,13 @@
     "expire_days": 99999,
     "hwid": "6b1335c8954436a6387f3d5639f2a21128cec7cb2868d4ee7b5cbdcf79cc5011",
     "status": "active"
+  },
+  {
+    "code": "IIVFJ-9FINA-GQTKI-7WRZG",
+    "hwid": "",
+    "activated": false,
+    "status": "active",
+    "expire_days": 99999,
+    "activated_at": ""
   }
 ]
