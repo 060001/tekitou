@@ -72,11 +72,11 @@
     "status": "active"
   },
   {
+    "activated": true,
+    "activated_at": "2025-07-04T15:02:36.668138900+00:00",
     "code": "IIVFJ-9FINA-GQTKI-7WRZG",
-    "hwid": "",
-    "activated": false,
-    "status": "active",
     "expire_days": 99999,
-    "activated_at": ""
+    "hwid": "7c89d60e86249d7b3f908774cf1a76eb40fed5cf5a336ccd2cb2affdf345c004",
+    "status": "active"
   }
 ]
